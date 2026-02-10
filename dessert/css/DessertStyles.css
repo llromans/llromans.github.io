@@ -1,0 +1,31 @@
+#title{
+    text-align: center;
+    border-bottom: solid 5px;
+    border-color: rgb(246, 246, 179);
+    }
+    body{
+        background-color: rgb(130, 255, 130);
+        color: rgb(216, 161, 72);
+    }
+    
+    img{
+        width: 50%;
+        border-radius:10%;
+    }
+    
+    #body{
+    padding-top: 30px;
+    text-align: center;
+    }
+    p{
+    font-size: 150%;
+    }
+    
+    h4{
+    padding-top: -10px;
+    
+    }
+    
+    
+    
+    

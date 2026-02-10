@@ -1,0 +1,45 @@
+
+
+
+#head{
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+
+#A1{
+float: left;
+padding: 0px 200px;
+}
+
+#A2{
+float: left;
+padding: 0px 200px;
+}
+
+#A3{
+    float: left;
+    padding: 0px 200px;
+    }
+
+
+
+table{
+    border: 2px solid;
+    border-collapse: collapse;
+    margin: auto;
+    font-size: larger;
+}
+
+tr{
+    border: 2px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+td{
+    border: 2px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
