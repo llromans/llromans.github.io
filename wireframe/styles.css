@@ -1,0 +1,120 @@
+H1{
+background-color: darkgrey;
+text-align: center;
+margin: 0%;
+}
+#main{
+width:70%;
+margin:auto;
+}
+
+
+body{
+background-color: darkgrey;
+border: solid;
+
+}
+
+#links{
+background-color: grey;
+border: solid;
+}
+
+
+#sect1{
+    padding-left: 45px;
+ height: 280px;
+    border: solid;
+}
+
+#sect2{
+    background-color: white;
+    padding-left: 45px;
+    height: 650px;
+    border: solid;
+    }
+#sect3{
+    padding-left: 45px;
+    height: 500px;
+    border: solid;
+}
+
+
+#pic1words{
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+
+
+#pic1{
+    float: left;
+    width: 50%;
+
+}
+
+#pic2words{
+    float: left;
+    width: 50%;
+    height: 50%;
+            }
+
+
+#pic2{
+    float: left;
+    width: 50%;
+    height: 50%;
+}        
+
+#pic3words{
+    float: left;
+    width: 50%;
+    height: 50%;
+
+            }
+
+
+#pic3{
+    float: left;
+    width: 50%;
+    height: 50%;
+}        
+#pic1manuel{
+padding-top: 20px;
+
+}
+#pic2manuel{
+    padding-top: 20px;
+
+    }
+    #pic3manuel{
+padding-top: 40px;
+padding-bottom: 20px;
+
+     }
+     a{
+        padding: 0px 20px;
+        
+        }
+
+        #footer{
+text-align: center;
+
+
+        }
+
+
+        hr{
+width: 300px;
+        }
+
+        h2{
+            text-align: center;
+        }
+
+        
+        #list{
+background-color: white;
+height: 350px;
+width: 350px;
+        }
