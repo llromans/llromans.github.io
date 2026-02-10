@@ -1,0 +1,76 @@
+
+#title{
+    text-align: center;
+    border-bottom: solid 5px;
+    border-color: rgb(85, 96, 97);      
+    }
+    body{
+        background-color: rgb(43, 43, 43);
+        color: rgb(201, 201, 201);
+    }
+    
+    #TitleBar{
+        width: 100%;
+    }
+    
+    #body{
+    padding-top: 30px;
+    }
+    p{
+    font-size: 180%;
+    }
+    
+#list{
+    margin: auto;
+    width: 20%;
+    padding-left: 10%;
+    border: solid;
+    border-width: 2px;
+
+}
+
+
+img{
+    width: 80%;
+}
+
+#game1{
+text-align: center;
+
+}
+
+#game2{
+    text-align: center;
+    
+    }
+
+    #game3{
+        text-align: center;
+        
+        }
+
+        #game4{
+            text-align: center;
+            
+            }
+
+            #game5{
+                text-align: center;
+                
+                }
+                div div{
+                    text-align: left;
+                }
+
+
+a{
+    color: darkgrey;
+}
+a:hover{
+    color: white;
+}
+
+#link{
+    font-size: 60%;
+    text-align: center;
+}
